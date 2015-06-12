@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ExpandableTextView">
+        <attr name="textToTitle" format="string" />
+        <!-- Text which will be expanded by tapping on view -->
+        <attr name="textToContent" format="string" />
+    </declare-styleable>
+
+</resources>
